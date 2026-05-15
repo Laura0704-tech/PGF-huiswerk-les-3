@@ -3,3 +3,5 @@
 # Een kleine pizza kost $15, een medium pizza kost $20 en een grote pizza kost $25.
 # Als de klant extra pepperoni wil, kost dit $2 voor een kleine pizza en $3 voor een medium of grote pizza.
 # Als de klant extra kaas wilt, dan kost dit $1.
+
+Pring("oefening")
