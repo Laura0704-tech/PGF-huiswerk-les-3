@@ -51,4 +51,5 @@ print("""
 
 # Schrijf hier je code:
 print("test")
+print("tweede test")
 
