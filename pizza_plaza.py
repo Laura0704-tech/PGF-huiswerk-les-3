@@ -4,4 +4,3 @@
 # Als de klant extra pepperoni wil, kost dit $2 voor een kleine pizza en $3 voor een medium of grote pizza.
 # Als de klant extra kaas wilt, dan kost dit $1.
 
-print("test")
